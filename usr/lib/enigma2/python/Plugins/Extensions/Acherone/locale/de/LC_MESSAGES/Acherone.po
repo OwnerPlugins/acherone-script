@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Verfügbare Skripte"
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Beschreibung:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Herunterladen"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Skriptpaket herunterladen?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Download erfolgreich abgeschlossen!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Fehler beim Öffnen des Protokoll-Viewers: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Fehler beim Ausführen (Code: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Skript ausführen ausgewählt?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ausführung abgeschlossen!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ausfahrt"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander – Add-on"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins-Linie"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logdatei nicht gefunden!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netzwerkfehler: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript von Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Bitte laden Sie das Skript herunter!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Entfernen"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Alle Skripte aus dem Ordner entfernen?"
 
 msgid "Save"
-msgstr ""
+msgstr "Speichern"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skriptausführer %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript nicht gefunden!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripte erfolgreich entfernt!"
 
 msgid "Select"
-msgstr ""
+msgstr "Wählen"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Dateien abspielen/anzeigen"

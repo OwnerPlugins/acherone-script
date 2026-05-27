@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "สคริปต์ที่มีอยู่"
 
 msgid "Close"
-msgstr ""
+msgstr "ปิด"
 
 msgid "Del Line"
-msgstr ""
+msgstr "เดล ไลน์"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "คำอธิบาย:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ดาวน์โหลดชุดสคริปต์?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ดาวน์โหลดสำเร็จแล้ว!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดในการเปิดโปรแกรมดูบันทึก: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "เกิดข้อผิดพลาดขณะทำงาน (รหัส: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "รันสคริปต์ที่เลือกไว้?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "การดำเนินการเสร็จสิ้น!"
 
 msgid "Exit"
-msgstr ""
+msgstr "ออก"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ผู้บัญชาการไฟล์ - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "อินไลน์"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ไม่พบไฟล์บันทึก!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ข้อผิดพลาดของเครือข่าย: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript โดย Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "กรุณาดาวน์โหลดสคริปต์!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ลบ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ลบสคริปต์ทั้งหมดออกจากโฟลเดอร์หรือไม่"
 
 msgid "Save"
-msgstr ""
+msgstr "บันทึก"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "ตัวดำเนินการสคริปต์ %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "ไม่พบสคริปต์!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ลบสคริปต์สำเร็จแล้ว!"
 
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "เล่น/แสดงไฟล์"

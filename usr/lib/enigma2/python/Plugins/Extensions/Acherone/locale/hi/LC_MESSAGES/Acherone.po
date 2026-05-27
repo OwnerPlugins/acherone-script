@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%एस"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "उपलब्ध स्क्रिप्ट"
 
 msgid "Close"
-msgstr ""
+msgstr "बंद करना"
 
 msgid "Del Line"
-msgstr ""
+msgstr "डेल लाइन"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "विवरण:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "डाउनलोड करना"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "स्क्रिप्ट पैक डाउनलोड करें?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "डाउनलोड सफलतापूर्वक पूरा हुआ!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "लॉग व्यूअर खोलने में त्रुटि: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "चलते समय त्रुटि (कोड: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "निष्पादित स्क्रिप्ट चयनित?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "निष्पादन पूरा हुआ!"
 
 msgid "Exit"
-msgstr ""
+msgstr "बाहर निकलना"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "फ़ाइल कमांडर - ऐडऑन"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "इन्स लाइन"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "लॉग फ़ाइल नहीं मिली!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "नेटवर्क त्रुटि: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "लुलुल्ला द्वारा ओपनस्क्रिप्ट"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "कृपया स्क्रिप्ट डाउनलोड करें!"
 
 msgid "Remove"
-msgstr ""
+msgstr "निकालना"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "फ़ोल्डर से सभी स्क्रिप्ट हटाएं?"
 
 msgid "Save"
-msgstr ""
+msgstr "बचाना"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "स्क्रिप्ट निष्पादक %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "स्क्रिप्ट नहीं मिली!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "स्क्रिप्ट सफलतापूर्वक हटा दी गईं!"
 
 msgid "Select"
-msgstr ""
+msgstr "चुनना"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "फ़ाइलें चलाएँ/दिखाएँ"

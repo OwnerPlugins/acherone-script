@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Tập lệnh có sẵn"
 
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Mô tả:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Tải xuống"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Tải xuống gói tập lệnh?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Tải xuống hoàn tất thành công!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Lỗi mở trình xem nhật ký: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Lỗi khi chạy (Mã: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Thực thi tập lệnh được chọn?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Thực hiện hoàn tất!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ra"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Chỉ huy tập tin - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Dòng Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Không tìm thấy tệp nhật ký!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Lỗi mạng: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript của Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Vui lòng tải xuống tập lệnh!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Di dời"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Xóa tất cả tập lệnh khỏi thư mục?"
 
 msgid "Save"
-msgstr ""
+msgstr "Cứu"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Trình thực thi tập lệnh %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Không tìm thấy tập lệnh!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Đã xóa tập lệnh thành công!"
 
 msgid "Select"
-msgstr ""
+msgstr "Lựa chọn"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "phát/hiển thị tập tin"

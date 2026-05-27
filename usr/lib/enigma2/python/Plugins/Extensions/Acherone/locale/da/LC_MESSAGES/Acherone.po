@@ -21,16 +21,16 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Tilgængelige scripts"
 
 msgid "Close"
-msgstr ""
+msgstr "Tæt"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Beskrivelse:\n"
 
 msgid "Download"
 msgstr ""
@@ -39,22 +39,22 @@ msgid "Download Script Pack?"
 msgstr ""
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Download fuldført!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Fejl ved åbning af logfremviser: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Fejl under kørsel (Kode: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Udfør scriptet valgt?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Udførelse afsluttet!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Udgang"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -63,37 +63,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logfilen blev ikke fundet!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netværksfejl: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Åbent skrift af Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Download venligst script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjerne"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Vil du fjerne alle scripts fra mappen?"
 
 msgid "Save"
-msgstr ""
+msgstr "Spare"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Script eksekverer %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Script ikke fundet!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scripts blev fjernet!"
 
 msgid "Select"
-msgstr ""
+msgstr "Vælge"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "afspil/vis filer"

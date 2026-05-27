@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Sgriobtaichean rim faighinn"
 
 msgid "Close"
-msgstr ""
+msgstr "Dùin"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Loidhne Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Tuairisgeul:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Luchdaich sìos"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Luchdaich sìos Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Chaidh an luchdachadh sìos a chrìochnachadh gu soirbheachail!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Mearachd a' fosgladh sealladair nan logaichean: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Mearachd fhad 's a bha e a' ruith (Còd: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "An cuir thu an gnìomh an Sgriobtar a thagh thu?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Cur gu bàs crìochnaichte!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ar-a-mach"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Loidhne a-staigh"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Cha deach faidhle loga a lorg!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Mearachd lìonraidh: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript le Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Feuch an luchdaich thu sìos an sgriobt!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Thoir air falbh"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Thoir air falbh a h-uile sgriobt on phasgan?"
 
 msgid "Save"
-msgstr ""
+msgstr "Sàbhail"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Gnìomhaiche an sgriobt %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Sgriobt cha deach a lorg!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Sgriobtaichean air an toirt air falbh gu soirbheachail!"
 
 msgid "Select"
-msgstr ""
+msgstr "Tagh"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "cluich / seall Faidhlichean"

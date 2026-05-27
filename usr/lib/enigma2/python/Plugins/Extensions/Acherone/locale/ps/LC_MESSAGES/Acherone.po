@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "شته سکریپټ"
 
 msgid "Close"
-msgstr ""
+msgstr "تړل"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ډیل لاین"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "توضیحات:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ډاونلوډ کړئ"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "د سکریپټ پیک ډاونلوډ کړئ؟"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ډاونلوډ په بریالیتوب سره بشپړ شو!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "د لاګ لیدونکي په پرانیستلو کې تېروتنه: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "د چلولو پرمهال تېروتنه (کوډ: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "اجرایوي سکریپټ غوره شوی؟"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "اعدام بشپړ شو!"
 
 msgid "Exit"
-msgstr ""
+msgstr "وتل"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "د فایل کمانډر - اډون"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins کرښه"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "د ننوتلو فایل ونه موندل شو!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "د شبکې تېروتنه: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "د لولولا لخوا خلاص سکریپټ"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "مهرباني وکړئ سکریپټ ډاونلوډ کړئ!"
 
 msgid "Remove"
-msgstr ""
+msgstr "لرې کړئ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "له فولډر څخه ټول سکریپټونه لرې کړئ؟"
 
 msgid "Save"
-msgstr ""
+msgstr "خوندي کړئ"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "سکریپټ اجرا کوونکی %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "سکریپټ ونه موندل شو!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "سکریپټونه په بریالیتوب سره لرې کړل!"
 
 msgid "Select"
-msgstr ""
+msgstr "وټاکئ"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "فایلونه پلی / ښکاره کړئ"

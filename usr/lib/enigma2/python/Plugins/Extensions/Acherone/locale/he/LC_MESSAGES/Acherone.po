@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "סקריפטים זמינים"
 
 msgid "Close"
-msgstr ""
+msgstr "לִסְגוֹר"
 
 msgid "Del Line"
-msgstr ""
+msgstr "דל ליין"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "תיאור:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "הורד"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "להוריד את חבילת הסקריפט?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ההורדה הושלמה בהצלחה!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "שגיאה בפתיחת מציג היומן: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "שגיאה בזמן הפעלה (קוד: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "בצע סקריפט נבחר?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "הושלמה הביצוע!"
 
 msgid "Exit"
-msgstr ""
+msgstr "יְצִיאָה"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "מפקד קבצים - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "קובץ יומן לא נמצא!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "שגיאת רשת: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "כתב פתוח מאת לולולה"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "נא להוריד סקריפט!"
 
 msgid "Remove"
-msgstr ""
+msgstr "לְהַסִיר"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "להסיר את כל הסקריפטים מהתיקייה?"
 
 msgid "Save"
-msgstr ""
+msgstr "לְהַצִיל"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "עורך סקריפט %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "הסקריפט לא נמצא!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "הסקריפטים הוסרו בהצלחה!"
 
 msgid "Select"
-msgstr ""
+msgstr "לִבחוֹר"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "הפעל/הצג קבצים"

@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Guiones disponibles"
 
 msgid "Close"
-msgstr ""
+msgstr "Cerca"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descripción:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "¿Descargar el paquete de guiones?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "¡Descarga completada exitosamente!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Error al abrir el visor de registros: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Error durante la ejecución (Código: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "¿Ejecutar script seleccionado?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "¡Ejecución completada!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Salida"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Comandante de archivos - Complemento"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Línea interna"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "¡No se encontró el archivo de registro!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Error de red: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Guión abierto de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "¡Descargue el guión!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "¿Eliminar todos los scripts de la carpeta?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ahorrar"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Ejecutor de script %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "¡Guión no encontrado!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "¡Los scripts se eliminaron con éxito!"
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproducir/mostrar archivos"

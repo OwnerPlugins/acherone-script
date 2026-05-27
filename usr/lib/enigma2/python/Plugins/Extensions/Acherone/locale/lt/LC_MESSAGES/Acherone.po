@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Galimi scenarijai"
 
 msgid "Close"
-msgstr ""
+msgstr "Uždaryti"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Aprašymas:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Atsisiųsti"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Atsisiųsti scenarijų paketą?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Atsisiuntimas sėkmingai baigtas!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Klaida atidarant žurnalo peržiūros programą: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Klaida vykdant (kodas: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Vykdyti scenarijų pasirinktas?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Vykdymas baigtas!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Išeiti"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Failų vadas – priedas"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Žurnalo failas nerastas!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Tinklo klaida: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Atviras scenarijus Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Atsisiųskite scenarijų!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Pašalinti"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Pašalinti visus scenarijus iš aplanko?"
 
 msgid "Save"
-msgstr ""
+msgstr "Išsaugoti"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Scenarijaus vykdytojas %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Scenarijus nerastas!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scenarijai sėkmingai pašalinti!"
 
 msgid "Select"
-msgstr ""
+msgstr "Pasirinkite"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "žaisti / rodyti failus"

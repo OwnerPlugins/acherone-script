@@ -20,40 +20,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "اسکریپت های موجود"
 
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 msgid "Del Line"
-msgstr ""
+msgstr "دل لاین"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "توضیحات:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "دانلود کنید"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "بسته اسکریپت دانلود شود؟"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "دانلود با موفقیت انجام شد!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "خطا در باز کردن نمایشگر گزارش: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "خطا هنگام اجرا (کد: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "اجرای اسکریپت انتخاب شد؟"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "اعدام تمام شد!"
 
 msgid "Exit"
-msgstr ""
+msgstr "خارج شوید"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -62,37 +62,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "فایل لاگ پیدا نشد!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "خطای شبکه: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "متن باز توسط لولولا"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "لطفا اسکریپت را دانلود کنید!"
 
 msgid "Remove"
-msgstr ""
+msgstr "حذف کنید"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "همه اسکریپت ها از پوشه حذف شوند؟"
 
 msgid "Save"
-msgstr ""
+msgstr "ذخیره کنید"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "اجرای اسکریپت %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "اسکریپت پیدا نشد!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "اسکریپت ها با موفقیت حذف شدند!"
 
 msgid "Select"
-msgstr ""
+msgstr "انتخاب کنید"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "پخش/نمایش فایل ها"

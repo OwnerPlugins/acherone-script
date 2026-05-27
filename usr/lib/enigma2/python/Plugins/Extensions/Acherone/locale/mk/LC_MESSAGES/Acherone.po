@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Достапни скрипти"
 
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дел Лајн"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Опис:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Преземи"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Да се ​​преземе пакетот скрипти?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Преземањето е успешно завршено!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Грешка при отворање на прегледувачот на дневници: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Грешка при извршување (код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Избрана е скрипта за извршување?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Извршувањето е завршено!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Излезете"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Командант на датотеки - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Инс линија"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Датотеката за евиденција не е пронајдена!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Мрежна грешка: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript од Лулула"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Ве молиме преземете скрипта!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Отстрани"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Да се ​​отстранат сите скрипти од папката?"
 
 msgid "Save"
-msgstr ""
+msgstr "Зачувај"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Извршувач на скрипта %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скриптата не е пронајдена!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скриптите се успешно отстранети!"
 
 msgid "Select"
-msgstr ""
+msgstr "Изберете"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "репродуцирај/прикажи Датотеки"

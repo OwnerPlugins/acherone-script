@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Beskikbare skrifte"
 
 msgid "Close"
-msgstr ""
+msgstr "Maak toe"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Beskrywing:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Laai af"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Laai Script Pack af?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Aflaai suksesvol voltooi!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Kon nie logbekyker oopmaak nie: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Fout tydens hardloop (Kode: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Voer skrip gekies uit?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Uitvoering voltooi!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Verlaat"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Lêerbevelvoerder - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins lyn"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Loglêer nie gevind nie!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netwerkfout: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Oopskrif deur Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Laai asseblief Skrip af!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwyder"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Verwyder alle skrifte uit vouer?"
 
 msgid "Save"
-msgstr ""
+msgstr "Stoor"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skripuitvoerder %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skrip nie gevind nie!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripte suksesvol verwyder!"
 
 msgid "Select"
-msgstr ""
+msgstr "Kies"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "speel/wys lêers"

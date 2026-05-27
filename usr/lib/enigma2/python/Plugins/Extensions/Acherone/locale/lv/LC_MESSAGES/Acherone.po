@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Pieejamie skripti"
 
 msgid "Close"
-msgstr ""
+msgstr "Aizvērt"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Apraksts:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Lejupielādēt"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Vai lejupielādēt skriptu pakotni?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Lejupielāde ir veiksmīgi pabeigta!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Atverot žurnāla skatītāju, radās kļūda: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Kļūda darbības laikā (Kods: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Izpildīt atlasīto skriptu?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Izpilde pabeigta!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Iziet"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Failu komandieris — papildinājums"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Žurnāla fails nav atrasts!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Tīkla kļūda: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lulullas atklātais skripts"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Lūdzu, lejupielādējiet skriptu!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Noņemt"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Vai noņemt visus skriptus no mapes?"
 
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skripta izpildītājs %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skripts nav atrasts!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripti veiksmīgi noņemti!"
 
 msgid "Select"
-msgstr ""
+msgstr "Izvēlieties"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "atskaņot/rādīt failus"

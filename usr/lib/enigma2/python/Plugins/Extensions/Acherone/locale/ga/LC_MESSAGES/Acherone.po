@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripteanna ar Fáil"
 
 msgid "Close"
-msgstr ""
+msgstr "Dún"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Líne"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Cur síos:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Íosluchtaigh"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Íoslódáil pacáiste script"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Íosluchtú críochnaithe go rathúil!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Earráid agus an t-amharcóir loga á oscailt: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Earráid agus é ag rith (Cód: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Rith Script Roghnaithe?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Forghníomhú críochnaithe!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Scoir"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Ceannasaí Comhad - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Líne Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Níor aimsíodh an logchomhad!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Earráid líonra: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript le Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Íoslódáil an script le do thoil"
 
 msgid "Remove"
-msgstr ""
+msgstr "Bain"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "An bhfuil fonn ort gach script a bhaint den fhillteán?"
 
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Seiceadóir Script %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Script gan aimsiú!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Baineadh na scripteanna go rathúil!"
 
 msgid "Select"
-msgstr ""
+msgstr "Roghnaigh"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Seinn / Taispeáin Comhaid"

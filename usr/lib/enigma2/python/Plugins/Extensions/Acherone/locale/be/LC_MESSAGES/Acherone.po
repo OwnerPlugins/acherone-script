@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Даступныя скрыпты"
 
 msgid "Close"
-msgstr ""
+msgstr "Блізка"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дэль Лайн"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Апісанне:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Спампаваць"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Спампаваць пакет сцэнарыяў?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Спампоўка паспяхова завершана!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Памылка адкрыцця праграмы прагляду часопісаў: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Памылка падчас працы (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Выканаць абраны сцэнар?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Выкананне выканана!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выхад"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - адон"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Лінія Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Файл часопіса не знойдзены!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Памылка сеткі: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript ад Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Калі ласка, спампуйце скрыпт!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Выдаліць"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Выдаліць усе скрыпты з папкі?"
 
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Выканаўца сцэнарыя %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрыпт не знойдзены!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Сцэнарыі паспяхова выдалены!"
 
 msgid "Select"
-msgstr ""
+msgstr "Выберыце"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "прайграваць/паказваць файлы"

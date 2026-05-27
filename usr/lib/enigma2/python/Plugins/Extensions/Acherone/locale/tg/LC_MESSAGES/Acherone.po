@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Скриптҳои дастрас"
 
 msgid "Close"
-msgstr ""
+msgstr "Пӯшед"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Тавсифи:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Зеркашӣ кунед"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Бастаи скриптро зеркашӣ кунед?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Зеркашӣ бомуваффақият анҷом ёфт!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Хатогии кушодани намоишгари гузориш: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Хатогӣ ҳангоми иҷро кардан (Рамз: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Скриптро иҷро кунед?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Иҷро ба анҷом расид!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Баромадгоҳ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Фармондеҳи файл - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Файли сабт ёфт нашуд!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Хатои шабака: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "OpenScript аз ҷониби Лулулло"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Лутфан Скриптро зеркашӣ кунед!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Хориҷ кунед"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Ҳама скриптҳо аз ҷузвдон хориҷ карда шаванд?"
 
 msgid "Save"
-msgstr ""
+msgstr "Захира кунед"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Иҷрокунандаи скрипт %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипт ёфт нашуд!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скриптҳо бомуваффақият хориҷ карда шуданд!"
 
 msgid "Select"
-msgstr ""
+msgstr "Интихоб кунед"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлҳоро бозӣ/намоиш диҳед"

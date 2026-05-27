@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Dostępne skrypty"
 
 msgid "Close"
-msgstr ""
+msgstr "Zamknąć"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Linia Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Opis:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Pobierać"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Pobrać pakiet skryptów?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Pobieranie zakończone pomyślnie!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Błąd podczas otwierania przeglądarki dzienników: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Błąd podczas działania (kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Wybrano wykonanie skryptu?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Wykonanie zakończone!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Wyjście"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Dowódca plików - dodatek"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linia Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Nie znaleziono pliku dziennika!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Błąd sieci: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript autorstwa Lululli"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Proszę pobrać skrypt!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Usunąć"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Usunąć wszystkie skrypty z folderu?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ratować"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Wykonawca skryptu %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Nie znaleziono skryptu!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skrypty zostały pomyślnie usunięte!"
 
 msgid "Select"
-msgstr ""
+msgstr "Wybierać"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "odtwarzaj/pokaż pliki"

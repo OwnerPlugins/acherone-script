@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripts Disponíveis"
 
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Linha"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descrição:\n"
 
 msgid "Download"
 msgstr ""
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Baixar pacote de scripts?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Download concluído com sucesso!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Erro ao abrir o visualizador de log: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Erro durante a execução (Código: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Executar script selecionado?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Execução concluída!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Saída"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Comandante de arquivo - complemento"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linha Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Arquivo de log não encontrado!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Erro de rede: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Texto aberto por Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Baixe o script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Remover todos os scripts da pasta?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Executor de scripts %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Script não encontrado!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scripts removidos com sucesso!"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecione"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproduzir/mostrar arquivos"

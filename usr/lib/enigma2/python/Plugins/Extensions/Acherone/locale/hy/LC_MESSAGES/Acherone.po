@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Հասանելի սցենարներ"
 
 msgid "Close"
-msgstr ""
+msgstr "Փակել"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Դել Լայն"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Նկարագրություն:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Բեռնել"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Ներբեռնե՞լ սցենարի փաթեթը:"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Ներբեռնումը հաջողությամբ ավարտվեց:"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Մատյան դիտիչը բացելու սխալ՝ %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Սխալ աշխատելիս (Կոդ՝ %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Կատարե՞լ սկրիպտը:"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Կատարումն ավարտված է:"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ելք"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Ֆայլի հրամանատար - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Մատյան ֆայլը չի ​​գտնվել:"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Ցանցի սխալ՝ %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Բաց գրություն՝ Լուլուլլայի կողմից"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Խնդրում ենք ներբեռնել սցենարը:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Հեռացնել"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Հեռացնե՞լ բոլոր սկրիպտները պանակից:"
 
 msgid "Save"
-msgstr ""
+msgstr "Պահպանել"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Սցենարների կատարող %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Սցենարը չի գտնվել:"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Սցենարները հաջողությամբ հեռացվեցին:"
 
 msgid "Select"
-msgstr ""
+msgstr "Ընտրել"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "խաղալ/ցուցադրել Ֆայլեր"

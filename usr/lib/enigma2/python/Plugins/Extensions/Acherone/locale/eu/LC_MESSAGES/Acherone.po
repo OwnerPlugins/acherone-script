@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Eskuragarri dauden gidoiak"
 
 msgid "Close"
-msgstr ""
+msgstr "Itxi"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Deskribapena:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Deskargatu"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Deskargatu Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Deskarga ondo osatu da!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Errore bat gertatu da erregistro-bistaratzailea irekitzean: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Errore bat exekutatzen ari zarenean (Kodea: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Script-a exekutatu hautatuta?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Exekuzioa amaituta!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Irten"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - Gehigarria"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins Linea"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Ez da aurkitu erregistro-fitxategia!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Sareko errorea: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lulullaren Openscript-a"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Mesedez, deskargatu Script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Kendu"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Script guztiak karpetatik kendu nahi dituzu?"
 
 msgid "Save"
-msgstr ""
+msgstr "Gorde"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "%s script exekutatzailea"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Ez da gidoia aurkitu!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scriptak behar bezala kendu dira!"
 
 msgid "Select"
-msgstr ""
+msgstr "Hautatu"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "erreproduzitu/erakutsi Fitxategiak"

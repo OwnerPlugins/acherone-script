@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Sgriptiau sydd ar Gael"
 
 msgid "Close"
-msgstr ""
+msgstr "Cau"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Disgrifiad:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Lawrlwythwch"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Lawrlwytho Pecyn Sgript?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Cwblhawyd y lawrlwythiad yn llwyddiannus!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Gwall wrth agor y syllwr log: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Gwall wrth redeg (Cod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Gweithredu'r Sgript Wedi'i Ddewis?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Dienyddiad wedi'i gwblhau!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ymadael"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Comander - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Llinell Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Ffeil log heb ei ddarganfod!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Gwall rhwydwaith: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Sgript agored gan Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Os gwelwch yn dda Lawrlwythwch Sgript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dileu"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Tynnu'r holl sgriptiau o'r ffolder?"
 
 msgid "Save"
-msgstr ""
+msgstr "Arbed"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Ysguthurwr Sgript %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Sgript heb ei ddarganfod!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Llwyddwyd i dynnu sgriptiau!"
 
 msgid "Select"
-msgstr ""
+msgstr "Dewiswch"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "chwarae/dangos Ffeiliau"

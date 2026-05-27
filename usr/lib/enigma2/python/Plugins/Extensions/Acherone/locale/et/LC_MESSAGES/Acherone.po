@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Saadaolevad skriptid"
 
 msgid "Close"
-msgstr ""
+msgstr "Sule"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Kirjeldus:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Laadi alla"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Kas laadida alla skriptipakett?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Allalaadimine on edukalt lõpule viidud!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Viga logivaaturi avamisel: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Viga käitamise ajal (kood: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Kas skript on valitud?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Täitmine lõpetatud!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Välju"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Failiülem – lisand"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logifaili ei leitud!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Võrguviga: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Avaskript, autor Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Palun laadige alla skript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eemalda"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Kas eemaldada kaustast kõik skriptid?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvesta"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skripti täitja %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skripti ei leitud!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptid edukalt eemaldatud!"
 
 msgid "Select"
-msgstr ""
+msgstr "Valige"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "esita/näita faile"

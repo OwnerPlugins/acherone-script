@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Боломжтой скриптүүд"
 
 msgid "Close"
-msgstr ""
+msgstr "Хаах"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дел шугам"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Тайлбар:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Татаж авах"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Скрипт багцыг татаж авах уу?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Татаж авч дууслаа!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Бүртгэл харагчийг нээх алдаа: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Ажиллуулах явцад гарсан алдаа (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Сонгосон скриптийг ажиллуулах уу?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Гүйцэтгэл дууссан!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Гарах"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Файлын командлагч - Нэмэлт"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Лог файл олдсонгүй!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Сүлжээний алдаа: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Лулуллагийн нээлттэй скрипт"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Скриптийг татаж авна уу!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Устгах"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Фолдероос бүх скриптийг устгах уу?"
 
 msgid "Save"
-msgstr ""
+msgstr "Хадгалах"
 
 msgid "Script Executor %s"
 msgstr ""
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипт олдсонгүй!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скриптүүдийг амжилттай устгалаа!"
 
 msgid "Select"
-msgstr ""
+msgstr "Сонго"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлуудыг тоглуулах/үзүүлэх"

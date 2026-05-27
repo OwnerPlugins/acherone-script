@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ხელმისაწვდომი სკრიპტები"
 
 msgid "Close"
-msgstr ""
+msgstr "დახურვა"
 
 msgid "Del Line"
-msgstr ""
+msgstr "დელ ლაინი"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "აღწერა:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ჩამოტვირთვა"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ჩამოტვირთეთ სკრიპტის პაკეტი?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ჩამოტვირთვა წარმატებით დასრულდა!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "შეცდომა ჟურნალის მაყურებლის გახსნისას: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "შეცდომა გაშვებისას (კოდი: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "არჩეულია სკრიპტის შესრულება?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "აღსრულება დასრულდა!"
 
 msgid "Exit"
-msgstr ""
+msgstr "გასვლა"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ფაილის მეთაური - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ჟურნალის ფაილი ვერ მოიძებნა!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ქსელის შეცდომა: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "ღია სცენარი ლულულას მიერ"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "გთხოვთ ჩამოტვირთეთ სკრიპტი!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ამოღება"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "წაშალოთ ყველა სკრიპტი საქაღალდიდან?"
 
 msgid "Save"
-msgstr ""
+msgstr "შენახვა"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "სკრიპტის შემსრულებელი %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "სკრიპტი ვერ მოიძებნა!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "სკრიპტები წარმატებით წაიშალა!"
 
 msgid "Select"
-msgstr ""
+msgstr "აირჩიეთ"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ფაილების დაკვრა/ჩვენება"

@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ലഭ്യമായ സ്ക്രിപ്റ്റുകൾ"
 
 msgid "Close"
-msgstr ""
+msgstr "അടയ്ക്കുക"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ഡെൽ ലൈൻ"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "വിവരണം:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ഡൗൺലോഡ് ചെയ്യുക"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "സ്ക്രിപ്റ്റ് പാക്ക് ഡൗൺലോഡ് ചെയ്യണോ?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ഡൗൺലോഡ് വിജയകരമായി പൂർത്തിയായി!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "ലോഗ് വ്യൂവർ തുറക്കുന്നതിൽ പിശക്: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "പ്രവർത്തിപ്പിക്കുമ്പോൾ പിശക് (കോഡ്: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "തിരഞ്ഞെടുത്ത സ്ക്രിപ്റ്റ് എക്സിക്യൂട്ട് ചെയ്യണോ?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "നിർവ്വഹണം പൂർത്തിയായി!"
 
 msgid "Exit"
-msgstr ""
+msgstr "പുറത്ത്"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ഫയൽ കമാൻഡർ - ആഡോൺ"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ഇൻസ് ലൈൻ"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ലോഗ് ഫയൽ കണ്ടെത്തിയില്ല!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "നെറ്റ്‌വർക്ക് പിശക്: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "ലുലുല്ലയുടെ ഓപ്പൺസ്ക്രിപ്റ്റ്"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "ദയവായി സ്ക്രിപ്റ്റ് ഡൗൺലോഡ് ചെയ്യുക!"
 
 msgid "Remove"
-msgstr ""
+msgstr "നീക്കം ചെയ്യുക"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ഫോൾഡറിൽ നിന്ന് എല്ലാ സ്ക്രിപ്റ്റുകളും നീക്കം ചെയ്യണോ?"
 
 msgid "Save"
-msgstr ""
+msgstr "സംരക്ഷിക്കുക"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "സ്ക്രിപ്റ്റ് എക്സിക്യൂട്ടർ %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "സ്ക്രിപ്റ്റ് കണ്ടെത്തിയില്ല!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "സ്ക്രിപ്റ്റുകൾ നീക്കം ചെയ്‌തു!"
 
 msgid "Select"
-msgstr ""
+msgstr "തിരഞ്ഞെടുക്കുക"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ഫയലുകൾ പ്ലേ ചെയ്യുക/കാണിക്കുക"

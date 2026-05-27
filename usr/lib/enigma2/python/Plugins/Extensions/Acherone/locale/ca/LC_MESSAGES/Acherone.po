@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripts disponibles"
 
 msgid "Close"
-msgstr ""
+msgstr "Tancar"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descripció:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Descarregar"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Descarregar el paquet de scripts?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "La descàrrega s'ha completat correctament!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Error en obrir el visualitzador de registres: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Error en executar-se (Codi: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "S'ha seleccionat l'script d'execució?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Execució acabada!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Línia Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "No s'ha trobat el fitxer de registre!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Error de xarxa: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Si us plau, descarregueu l'script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Vols suprimir tots els scripts de la carpeta?"
 
 msgid "Save"
-msgstr ""
+msgstr "Desa"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Ejecutor d'scripts %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "No s'ha trobat l'script!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Els scripts s'han eliminat correctament!"
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccioneu"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproduir/mostrar fitxers"

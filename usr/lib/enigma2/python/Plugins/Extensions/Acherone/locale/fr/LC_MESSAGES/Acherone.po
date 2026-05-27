@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripts disponibles"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Ligne Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Description :\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Télécharger"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Télécharger le pack de scripts ?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Téléchargement terminé avec succès !"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Erreur lors de l'ouverture de la visionneuse de journaux : %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Erreur lors de l'exécution (Code : %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Exécuter le script sélectionné ?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Exécution terminée !"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortie"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Commandant de fichiers - Module complémentaire"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ligne Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Fichier journal introuvable !"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Erreur réseau : %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Script ouvert par Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Veuillez télécharger le script !"
 
 msgid "Remove"
-msgstr ""
+msgstr "Retirer"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Supprimer tous les scripts du dossier ?"
 
 msgid "Save"
-msgstr ""
+msgstr "Sauvegarder"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Exécuteur de script %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Script introuvable !"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scripts supprimés avec succès !"
 
 msgid "Select"
-msgstr ""
+msgstr "Sélectionner"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "lire/afficher les fichiers"

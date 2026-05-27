@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Налични скриптове"
 
 msgid "Close"
-msgstr ""
+msgstr "затвори"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дел линия"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Описание:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Изтегляне"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Изтегляне на скриптов пакет?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Изтеглянето завърши успешно!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Грешка при отваряне на програмата за преглед на регистрационни файлове: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Грешка при изпълнение (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Изпълнение на избрания скрипт?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Изпълнението е завършено!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изход"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins линия"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Лог файлът не е намерен!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Мрежова грешка: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript от Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Моля, изтеглете скрипт!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Премахнете"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Премахване на всички скриптове от папката?"
 
 msgid "Save"
-msgstr ""
+msgstr "Запазване"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Изпълнител на скриптове %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скриптът не е намерен!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скриптовете са премахнати успешно!"
 
 msgid "Select"
-msgstr ""
+msgstr "Изберете"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "възпроизвеждане/показване на файлове"

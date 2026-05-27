@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%с"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Доступне скрипте"
 
 msgid "Close"
-msgstr ""
+msgstr "Затвори"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дел Лине"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Опис:\н"
 
 msgid "Download"
-msgstr ""
+msgstr "Преузми"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Преузмите пакет скрипти?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Преузимање је успешно завршено!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Грешка при отварању прегледача дневника: %с"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Грешка при покретању (Код: %д)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Извршити скрипту изабрано?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Извршење завршено!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Изађи"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Филе Цоммандер - Аддон"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Инс Лине"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Дневник није пронађен!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Мрежна грешка: %с"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Опенсцрипт од Лулулла"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Молимо преузмите скрипту!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Уклони"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Уклонити све скрипте из фасцикле?"
 
 msgid "Save"
-msgstr ""
+msgstr "Сачувај"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Извршитељ скрипте %с"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипта није пронађена!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скрипте су успешно уклоњене!"
 
 msgid "Select"
-msgstr ""
+msgstr "Изаберите"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "пусти/прикажи датотеке"

@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "% s"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ئىشلەتكىلى بولىدىغان ئورگىناللار"
 
 msgid "Close"
-msgstr ""
+msgstr "تاقاش"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "چۈشەندۈرۈش: \ n"
 
 msgid "Download"
-msgstr ""
+msgstr "چۈشۈرۈش"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "قوليازما بولىقىنى چۈشۈرۈڭ؟"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "چۈشۈرۈش مۇۋەپپەقىيەتلىك تاماملاندى!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "خاتىرە كۆرگۈچنى ئېچىشتا خاتالىق:% s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "ئىجرا قىلغاندا خاتالىق (كود:% d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "قوليازما تاللانغانمۇ؟"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "ئىجرا تاماملاندى!"
 
 msgid "Exit"
-msgstr ""
+msgstr "چىقىش"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ھۆججەت قوماندانى - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "خاتىرە ھۆججەت تېپىلمىدى!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "تور خاتالىقى:% s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla تەرىپىدىن ئېچىلغان"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "قوليازمىنى چۈشۈرۈڭ!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ئۆچۈرۈڭ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ھۆججەتلەرنى قىسقۇچتىن ئۆچۈرۈڭ؟"
 
 msgid "Save"
-msgstr ""
+msgstr "ساقلاش"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "قوليازما ئىجرا قىلغۇچى% s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "قوليازما تېپىلمىدى!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "قوليازما مۇۋەپپەقىيەتلىك ئۆچۈرۈلدى!"
 
 msgid "Select"
-msgstr ""
+msgstr "تاللاڭ"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ھۆججەتلەرنى كۆرسىتىش / كۆرسىتىش"

@@ -20,40 +20,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Қолжетімді сценарийлер"
 
 msgid "Close"
-msgstr ""
+msgstr "Жабу"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Сипаттама:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Жүктеп алу"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Сценарий бумасын жүктеп алу керек пе?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Жүктеп алу сәтті аяқталды!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Журналды қарау құралын ашу қатесі: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Іске қосу кезіндегі қате (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Таңдалған сценарийді орындау керек пе?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Орындау аяқталды!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Шығу"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -62,37 +62,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Журнал файлы табылмады!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Желі қатесі: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Лулулла жазған OpenScript"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Скриптті жүктеп алыңыз!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Жою"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Барлық сценарийлерді қалтадан жою керек пе?"
 
 msgid "Save"
-msgstr ""
+msgstr "Сақтау"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Сценарийді орындаушы %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипт табылмады!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Сценарийлер сәтті жойылды!"
 
 msgid "Select"
-msgstr ""
+msgstr "таңдаңыз"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "файлдарды ойнату/көрсету"

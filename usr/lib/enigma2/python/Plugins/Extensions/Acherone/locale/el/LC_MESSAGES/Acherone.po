@@ -18,43 +18,43 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%μικρό"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Διαθέσιμα Σενάρια"
 
 msgid "Close"
-msgstr ""
+msgstr "Κοντά"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Περιγραφή:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Λήψη"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Λήψη πακέτου σεναρίων;"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Η λήψη ολοκληρώθηκε με επιτυχία!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Σφάλμα κατά το άνοιγμα του προγράμματος προβολής αρχείων καταγραφής: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Σφάλμα κατά την εκτέλεση (Κωδικός: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Επιλέχθηκε η εκτέλεση σεναρίου;"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ολοκληρώθηκε η εκτέλεση!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Εξοδος"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -63,37 +63,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Το αρχείο καταγραφής δεν βρέθηκε!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Σφάλμα δικτύου: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Ανοιχτό σενάριο Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Παρακαλώ κατεβάστε το σενάριο!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Αφαιρώ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Κατάργηση όλων των σεναρίων από το φάκελο;"
 
 msgid "Save"
-msgstr ""
+msgstr "Εκτός"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Εκτελεστής σεναρίου %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Το σενάριο δεν βρέθηκε!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Τα σενάρια καταργήθηκαν με επιτυχία!"
 
 msgid "Select"
-msgstr ""
+msgstr "Επιλέγω"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "αναπαραγωγή/εμφάνιση Αρχείων"

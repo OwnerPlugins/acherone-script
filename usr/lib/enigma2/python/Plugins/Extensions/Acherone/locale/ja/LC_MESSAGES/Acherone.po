@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "利用可能なスクリプト"
 
 msgid "Close"
-msgstr ""
+msgstr "近い"
 
 msgid "Del Line"
-msgstr ""
+msgstr "デルライン"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "説明:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "スクリプト パックをダウンロードしますか?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "無事にダウンロードが完了しました！"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "ログ ビューアを開くときにエラーが発生しました: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "実行中にエラーが発生しました (コード: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "選択したスクリプトを実行しますか?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "実行完了！"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ファイルコマンダー - アドオン"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "インスライン"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ログファイルが見つかりません!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ネットワークエラー: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "ルルラによるオープンスクリプト"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "スクリプトをダウンロードしてください。"
 
 msgid "Remove"
-msgstr ""
+msgstr "取り除く"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "フォルダーからすべてのスクリプトを削除しますか?"
 
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "スクリプト実行者 %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "スクリプトが見つかりません!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "スクリプトは正常に削除されました。"
 
 msgid "Select"
-msgstr ""
+msgstr "選択"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ファイルの再生/表示"

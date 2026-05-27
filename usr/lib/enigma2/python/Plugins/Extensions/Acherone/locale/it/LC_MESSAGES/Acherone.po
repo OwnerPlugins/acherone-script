@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
 msgstr "Script Disponibili"
@@ -35,7 +35,7 @@ msgid "Download"
 msgstr "Download"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Scarica il pacchetto di script?"
 
 msgid "Download completed successfully!"
 msgstr "Download completato con successo!"
@@ -56,7 +56,7 @@ msgid "Exit"
 msgstr "Esci"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - Componente aggiuntivo"
 
 msgid "Ins Line"
 msgstr "Inserisci"
@@ -65,10 +65,10 @@ msgid "Log file not found!"
 msgstr "Log file non trovato!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Errore di rete: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript di Lululla"
 
 msgid "Please Download Script!"
 msgstr "Preego scarica il pacchetto script!"
@@ -83,7 +83,7 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Esecutore di script %s"
 
 msgid "Script not found!"
 msgstr "Script non trovato!"
@@ -95,7 +95,7 @@ msgid "Select"
 msgstr "Seleziona"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "riprodurre/mostrare file"
 
 #~ msgid "Description not available"
 #~ msgstr "Descrizione non disponibile"

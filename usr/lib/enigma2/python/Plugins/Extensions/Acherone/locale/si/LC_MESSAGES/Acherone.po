@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "පවතින ස්ක්‍රිප්ට්"
 
 msgid "Close"
-msgstr ""
+msgstr "වසන්න"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ඩෙල් ලයින්"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "විස්තරය:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "බාගන්න"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ස්ක්‍රිප්ට් පැක් බාගන්නද?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "බාගත කිරීම සාර්ථකව අවසන්!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "ලොග් බලන්නා විවෘත කිරීමේ දෝෂයකි: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "ධාවනය කිරීමේදී දෝෂයකි (කේතය: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ස්ක්‍රිප්ට් ක්‍රියාත්මක කරන්න තෝරා ගත්තාද?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "ක්‍රියාත්මක කිරීම සම්පූර්ණයි!"
 
 msgid "Exit"
-msgstr ""
+msgstr "පිටවෙන්න"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ගොනු කමාන්ඩර් - ඇඩෝනය"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ඉන්ස් ලයින්"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ලොග් ගොනුව හමු නොවීය!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ජාල දෝෂය: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "විවෘත පිටපත ලුලුල්ලා විසිනි"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "කරුණාකර ස්ක්‍රිප්ට් බාගන්න!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ඉවත් කරන්න"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ෆෝල්ඩරයෙන් සියලුම ස්ක්‍රිප්ට් ඉවත් කරන්නද?"
 
 msgid "Save"
-msgstr ""
+msgstr "සුරකින්න"
 
 msgid "Script Executor %s"
 msgstr ""
 
 msgid "Script not found!"
-msgstr ""
+msgstr "පිටපත හමු නොවීය!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ස්ක්‍රිප්ට් සාර්ථකව ඉවත් කරන ලදී!"
 
 msgid "Select"
-msgstr ""
+msgstr "තෝරන්න"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ගොනු වාදනය / පෙන්වන්න"

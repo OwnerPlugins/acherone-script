@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "የሚገኙ ስክሪፕቶች"
 
 msgid "Close"
-msgstr ""
+msgstr "ገጠመ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ዴል መስመር"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "መግለጫ፡\n"
 
 msgid "Download"
-msgstr ""
+msgstr "አውርድ"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "የስክሪፕት ጥቅል አውርድ?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ማውረድ በተሳካ ሁኔታ ተጠናቅቋል!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "የምዝግብ ማስታወሻ መመልከቻን መክፈት ላይ ስህተት፡ %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "በማሄድ ላይ ስህተት (ኮድ: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ስክሪፕት ይፈጸም?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "አፈፃፀሙ ተጠናቀቀ!"
 
 msgid "Exit"
-msgstr ""
+msgstr "ውጣ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "የፋይል አዛዥ - አዶን"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ኢንስ መስመር"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "የምዝግብ ማስታወሻ ፋይል አልተገኘም!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "የአውታረ መረብ ስህተት፡ %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "ክፍት ጽሑፍ በሉሉላ"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "እባክዎን ስክሪፕት ያውርዱ!"
 
 msgid "Remove"
-msgstr ""
+msgstr "አስወግድ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ሁሉም ስክሪፕቶች ከአቃፊ ይወገዱ?"
 
 msgid "Save"
-msgstr ""
+msgstr "አስቀምጥ"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "ስክሪፕት አስፈፃሚ %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "ስክሪፕት አልተገኘም!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ስክሪፕቶች በተሳካ ሁኔታ ተወግደዋል!"
 
 msgid "Select"
-msgstr ""
+msgstr "ይምረጡ"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ፋይሎችን አጫውት/አሳይ"

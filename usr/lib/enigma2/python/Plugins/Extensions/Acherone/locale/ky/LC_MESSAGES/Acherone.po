@@ -20,40 +20,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Жеткиликтүү скрипттер"
 
 msgid "Close"
-msgstr ""
+msgstr "Жабуу"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Сүрөттөмө:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Жүктөп алуу"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Скрипт пакетин жүктөп алабы?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Жүктөп алуу ийгиликтүү аяктады!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Таржымал көрүүчүнү ачуу катасы: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Иштеп жатканда ката (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Скрипт тандалдыбы?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Аткаруу аяктады!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Чыгыңыз"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -62,37 +62,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Журнал файлы табылган жок!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Тармак катасы: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript by Лулулла"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Сураныч, скрипт жүктөп алыңыз!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Алып салуу"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Папкадан бардык скрипттерди өчүрөсүзбү?"
 
 msgid "Save"
-msgstr ""
+msgstr "Сактоо"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Скрипт аткаруучу %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипт табылган жок!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скрипттер ийгиликтүү өчүрүлдү!"
 
 msgid "Select"
-msgstr ""
+msgstr "Тандоо"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлдарды ойнотуу/көрсөтүү"

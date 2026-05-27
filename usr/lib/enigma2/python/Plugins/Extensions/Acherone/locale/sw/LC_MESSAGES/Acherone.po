@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Hati Zinazopatikana"
 
 msgid "Close"
-msgstr ""
+msgstr "Funga"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Maelezo:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Pakua"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Pakua Kifurushi cha Hati?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Upakuaji umekamilika!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Hitilafu katika kufungua kitazamaji kumbukumbu: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Hitilafu wakati wa kuendesha (Msimbo: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Utekeleze Hati Iliyochaguliwa?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Utekelezaji umekamilika!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Utgång"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Kamanda wa faili - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Faili ya kumbukumbu haijapatikana!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Hitilafu ya mtandao: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript na Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Tafadhali Pakua Hati!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ondoa"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Je, ungependa kuondoa hati zote kwenye folda?"
 
 msgid "Save"
-msgstr ""
+msgstr "Hifadhi"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Kitekelezaji Hati %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Hati haikupatikana!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Hati zimeondolewa!"
 
 msgid "Select"
-msgstr ""
+msgstr "Chagua"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "cheza/onyesha Faili"

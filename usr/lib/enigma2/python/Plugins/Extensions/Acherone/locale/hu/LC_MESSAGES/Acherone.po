@@ -21,40 +21,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Elérhető szkriptek"
 
 msgid "Close"
-msgstr ""
+msgstr "Közeli"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Leírás:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Letölteni Script Pack-et?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "A letöltés sikeresen befejeződött!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Hiba a naplónézegető megnyitásakor: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Hiba futás közben (Kód: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Kijelölve a parancsfájl végrehajtása?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "A végrehajtás befejeződött!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Kijárat"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -63,37 +63,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "A naplófájl nem található!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Hálózati hiba: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Nyílt szkript: Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Kérjük, töltse le a szkriptet!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Távolítsa el"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Eltávolítja az összes szkriptet a mappából?"
 
 msgid "Save"
-msgstr ""
+msgstr "Megtakarítás"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Szkript végrehajtó %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "A szkript nem található!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "A szkriptek sikeresen eltávolítva!"
 
 msgid "Select"
-msgstr ""
+msgstr "Válassza ki"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Fájlok lejátszása/megjelenítése"

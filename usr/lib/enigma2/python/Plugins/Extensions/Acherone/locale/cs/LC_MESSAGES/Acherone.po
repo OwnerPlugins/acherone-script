@@ -21,40 +21,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Dostupné skripty"
 
 msgid "Close"
-msgstr ""
+msgstr "Blízko"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Popis:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Stáhnout Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Stahování bylo úspěšně dokončeno!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Chyba při otevírání prohlížeče protokolu: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Chyba při běhu (kód: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Je vybrán spustit skript?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Provedení dokončeno!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Výstup"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -63,37 +63,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Soubor protokolu nebyl nalezen!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Chyba sítě: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript od Lulully"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Stáhněte si prosím skript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstranit"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Odebrat všechny skripty ze složky?"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Spouštěč skriptu %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript nenalezen!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripty byly úspěšně odstraněny!"
 
 msgid "Select"
-msgstr ""
+msgstr "Vybrat"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "přehrát/zobrazit soubory"

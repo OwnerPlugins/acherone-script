@@ -20,40 +20,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Magagamit na mga Script"
 
 msgid "Close"
-msgstr ""
+msgstr "Isara"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Paglalarawan:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "I-download"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "I-download ang Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Matagumpay na nakumpleto ang pag-download!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Error sa pagbubukas ng viewer ng log: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Error habang tumatakbo (Code: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Napili ang Ipatupad ang Script?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Tapos na ang execution!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Lumabas"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -62,37 +62,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Hindi nakita ang log file!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Error sa network: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript ni Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Mangyaring I-download ang Script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Alisin"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Alisin ang lahat ng mga script mula sa folder?"
 
 msgid "Save"
-msgstr ""
+msgstr "I-save"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Tagapatupad ng Script %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Hindi nahanap ang script!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Matagumpay na naalis ang mga script!"
 
 msgid "Select"
-msgstr ""
+msgstr "Pumili"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "i-play/ipakita ang mga File"

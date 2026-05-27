@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Mevcut Komut Dosyaları"
 
 msgid "Close"
-msgstr ""
+msgstr "Kapalı"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Hattı"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Açıklama:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "İndirmek"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Komut Dosyası Paketi indirilsin mi?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "İndirme başarıyla tamamlandı!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Günlük görüntüleyici açılırken hata oluştu: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Çalıştırma sırasında hata oluştu (Kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Seçilen Komut Dosyası Yürütülsün mü?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "İnfaz tamamlandı!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıkış"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Dosya Komutanı - Eklenti"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins Hattı"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Günlük dosyası bulunamadı!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Ağ hatası: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla tarafından yazılan açık metin"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Lütfen Komut Dosyasını İndirin!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Kaldırmak"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Tüm komut dosyaları klasörden kaldırılsın mı?"
 
 msgid "Save"
-msgstr ""
+msgstr "Kaydetmek"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Komut Dosyası Yürütücüsü %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Komut dosyası bulunamadı!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Komut dosyaları başarıyla kaldırıldı!"
 
 msgid "Select"
-msgstr ""
+msgstr "Seçme"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Dosyaları oynat/göster"

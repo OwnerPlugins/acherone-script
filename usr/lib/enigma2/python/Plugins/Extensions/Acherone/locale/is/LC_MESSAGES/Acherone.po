@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Forskriftir í boði"
 
 msgid "Close"
-msgstr ""
+msgstr "Loka"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Lýsing:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Sækja"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Sækja forskriftapakka?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Niðurhali lokið með góðum árangri!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Villa við að opna annálaskoðara: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Villa við að keyra (Kóði: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Keyra skriftu valið?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Framkvæmd lokið!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Hætta"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Skráarforingi - viðbót"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Notkunarskrá fannst ekki!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netvilla: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Opið handrit eftir Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Vinsamlegast hlaðið niður script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fjarlægja"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Fjarlægja allar forskriftir úr möppu?"
 
 msgid "Save"
-msgstr ""
+msgstr "Vista"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Forskriftarstjóri %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Forskrift fannst ekki!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Forskriftir voru fjarlægðar!"
 
 msgid "Select"
-msgstr ""
+msgstr "Veldu"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "spila/sýna skrár"

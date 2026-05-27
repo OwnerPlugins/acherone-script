@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Dostupne skripte"
 
 msgid "Close"
-msgstr ""
+msgstr "Zatvoriti"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Opis:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "preuzimanje"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Preuzeti paket skripti?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Preuzimanje je uspješno dovršeno!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Pogreška pri otvaranju preglednika dnevnika: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Greška tijekom pokretanja (Kôd: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Odabrano izvršiti skriptu?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ovrha završena!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Izlaz"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins linija"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Dnevnik nije pronađen!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Mrežna pogreška: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript autora Lululle"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Molimo preuzmite skriptu!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ukloniti"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Ukloniti sve skripte iz mape?"
 
 msgid "Save"
-msgstr ""
+msgstr "Uštedjeti"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Izvršitelj skripte %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skripta nije pronađena!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripte uspješno uklonjene!"
 
 msgid "Select"
-msgstr ""
+msgstr "Odaberite"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproduciraj/prikaži datoteke"

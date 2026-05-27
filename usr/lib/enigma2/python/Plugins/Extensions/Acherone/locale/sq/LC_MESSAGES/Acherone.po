@@ -20,40 +20,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Skriptet e disponueshme"
 
 msgid "Close"
-msgstr ""
+msgstr "Mbylle"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Përshkrimi:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Shkarkoni"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Të shkarkohet paketa e skripteve?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Shkarkimi përfundoi me sukses!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Gabim në hapjen e shikuesit të regjistrit: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Gabim gjatë ekzekutimit (Kodi: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "U zgjodh ekzekutimi i skriptit?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ekzekutimi përfundoi!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Dilni"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -62,37 +62,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Skedari i regjistrit nuk u gjet!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Gabim rrjeti: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Shkrim i hapur nga Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Ju lutemi shkarkoni skenarin!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Hiq"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Të hiqen të gjitha skriptet nga dosja?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ruaj"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Ekzekutuesi i skriptit %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skripti nuk u gjet!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptet u hoqën me sukses!"
 
 msgid "Select"
-msgstr ""
+msgstr "Zgjidhni"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "luaj/shfaq skedarë"

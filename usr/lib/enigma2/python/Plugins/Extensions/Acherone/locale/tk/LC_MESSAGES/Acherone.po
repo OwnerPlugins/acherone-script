@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "% s"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Elýeterli skriptler"
 
 msgid "Close"
-msgstr ""
+msgstr ".Akyn"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Düşündiriş: \ n"
 
 msgid "Download"
-msgstr ""
+msgstr "Göçürip al"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Skript paketini göçürip alyň?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Göçürip almak üstünlikli tamamlandy!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Logurnal görkezijisini açmakda säwlik:% s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Işleýän wagtyňyz säwlik (Kod:% d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Scriptazgy saýlananmy?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ecutionerine ýetirmek tamamlandy!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çyk"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Faýl serkerdesi - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Faýl tapylmady"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Tor ýalňyşlygy:% s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla tarapyndan açylan ýazgy"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Scriptazgyny göçürip almagyňyzy haýyş edýäris!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Aýyr"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Scriptazgylaryň hemmesini bukjadan aýyryň?"
 
 msgid "Save"
-msgstr ""
+msgstr "Saklaň"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Scriptazgy ýerine ýetiriji% s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Scriptazgy tapylmady"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Ripazgylar üstünlikli aýryldy!"
 
 msgid "Select"
-msgstr ""
+msgstr "Saýlaň"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Faýllary oýnamak / görkezmek"

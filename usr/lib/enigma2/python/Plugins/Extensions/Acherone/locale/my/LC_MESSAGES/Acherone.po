@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ရနိုင်သော Scripts"
 
 msgid "Close"
-msgstr ""
+msgstr "ပိတ်လိုက်"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ဒယ်လ်လိုင်း"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "ဖော်ပြချက်-\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ဒေါင်းလုဒ်လုပ်ပါ။"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Script Pack ကို ဒေါင်းလုဒ်လုပ်မလား။"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ဒေါင်းလုဒ် အောင်မြင်စွာ ပြီးသွားပါပြီ။"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "မှတ်တမ်းကြည့်ရှုသူကို ဖွင့်ရာတွင် အမှားအယွင်းရှိသည်- %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "လုပ်ဆောင်နေစဉ် အမှားအယွင်း (ကုဒ်- %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Script ကို ရွေးချယ်ပြီး လုပ်ဆောင်မလား။"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "အကောင်အထည်ဖော်မှု ပြီးသွားပါပြီ။"
 
 msgid "Exit"
-msgstr ""
+msgstr "ထွက်ပေါက်"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins လိုင်း"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "မှတ်တမ်းဖိုင်ကို ရှာမတွေ့ပါ။"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ကွန်ရက် အမှား- %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla မှဖွင့်ဆိုချက်"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "ကျေးဇူးပြု၍ Script ကိုဒေါင်းလုဒ်လုပ်ပါ။"
 
 msgid "Remove"
-msgstr ""
+msgstr "ဖယ်ရှားပါ။"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ဖိုင်တွဲမှ script အားလုံးကို ဖယ်ရှားမလား။"
 
 msgid "Save"
-msgstr ""
+msgstr "သိမ်းဆည်းပါ။"
 
 msgid "Script Executor %s"
 msgstr ""
 
 msgid "Script not found!"
-msgstr ""
+msgstr "ဇာတ်ညွှန်းကို ရှာမတွေ့ပါ။"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Script များကို အောင်မြင်စွာ ဖယ်ရှားလိုက်ပါပြီ။"
 
 msgid "Select"
-msgstr ""
+msgstr "ရွေးချယ်ပါ။"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ဖိုင်များကိုဖွင့်/ပြသပါ။"

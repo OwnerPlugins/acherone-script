@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "البرامج النصية المتاحة"
 
 msgid "Close"
-msgstr ""
+msgstr "يغلق"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ديل لاين"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "الوصف:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "هل تريد تنزيل حزمة البرامج النصية؟"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "تم التحميل بنجاح!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "خطأ في فتح عارض السجل: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "حدث خطأ أثناء التشغيل (الرمز: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "هل تم تحديد تنفيذ البرنامج النصي؟"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "اكتمل التنفيذ!"
 
 msgid "Exit"
-msgstr ""
+msgstr "مخرج"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "قائد الملف - الملحق"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "خط إنس"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "لم يتم العثور على ملف السجل!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "خطأ في الشبكة: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript بواسطة Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "يرجى تنزيل البرنامج النصي!"
 
 msgid "Remove"
-msgstr ""
+msgstr "يزيل"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "إزالة كافة البرامج النصية من المجلد؟"
 
 msgid "Save"
-msgstr ""
+msgstr "يحفظ"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "منفذ البرنامج النصي %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "لم يتم العثور على البرنامج النصي!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "تمت إزالة البرامج النصية بنجاح!"
 
 msgid "Select"
-msgstr ""
+msgstr "يختار"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "تشغيل/إظهار الملفات"

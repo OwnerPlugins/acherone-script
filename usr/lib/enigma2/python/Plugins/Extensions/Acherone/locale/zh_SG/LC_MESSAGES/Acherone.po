@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "可用脚本"
 
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 msgid "Del Line"
-msgstr ""
+msgstr "德尔线"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "说明:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "下载脚本包？"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "下载成功！"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "打开日志查看器时出错：%s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "运行时出错（代码：%d）"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "执行选定的脚本？"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "执行完毕！"
 
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "文件指挥官 - 插件"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "INS线"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "未找到日志文件！"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "网络错误：%s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla 的 Openscript"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "请下载脚本！"
 
 msgid "Remove"
-msgstr ""
+msgstr "消除"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "从文件夹中删除所有脚本？"
 
 msgid "Save"
-msgstr ""
+msgstr "节省"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "脚本执行器 %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "找不到脚本！"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "脚本已成功删除！"
 
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "播放/显示文件"

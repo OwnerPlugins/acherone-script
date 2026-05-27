@@ -21,40 +21,40 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Dostupné skripty"
 
 msgid "Close"
-msgstr ""
+msgstr "Zavrieť"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Popis:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Stiahnuť"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Stiahnuť balík skriptov?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Sťahovanie bolo úspešne dokončené!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Chyba pri otváraní prehliadača denníka: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Chyba pri spustení (kód: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Spustiť skript vybratý?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Realizácia dokončená!"
 
 msgid "Exit"
-msgstr ""
+msgstr "VÝCHOD"
 
 msgid "File Commander - Addon"
 msgstr ""
@@ -63,37 +63,37 @@ msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Súbor denníka sa nenašiel!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Chyba siete: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript od Lulully"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Stiahnite si prosím skript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Odstrániť"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Odstrániť všetky skripty z priečinka?"
 
 msgid "Save"
-msgstr ""
+msgstr "Uložiť"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Spúšťač skriptov %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript sa nenašiel!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripty boli úspešne odstránené!"
 
 msgid "Select"
-msgstr ""
+msgstr "Vyberte"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "prehrať/zobraziť súbory"

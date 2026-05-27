@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripts dispoñibles"
 
 msgid "Close"
-msgstr ""
+msgstr "Pechar"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descrición:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Descargar Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Descarga completada con éxito!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Erro ao abrir o visor de rexistros: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Erro ao executar (Código: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Executar o script seleccionado?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Execución rematada!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Saír"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - Complemento"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Liña Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Non se atopou o ficheiro de rexistro!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Erro de rede: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "¡Descarga Script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Queres eliminar todos os scripts do cartafol?"
 
 msgid "Save"
-msgstr ""
+msgstr "Gardar"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Executor de scripts %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Non se atopou o script!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Os scripts elimináronse correctamente."
 
 msgid "Select"
-msgstr ""
+msgstr "Seleccione"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "reproducir/mostrar ficheiros"

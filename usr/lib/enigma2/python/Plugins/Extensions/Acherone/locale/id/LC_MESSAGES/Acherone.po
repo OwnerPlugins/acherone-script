@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Skrip yang Tersedia"
 
 msgid "Close"
-msgstr ""
+msgstr "Menutup"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Jalur Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Deskripsi:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Unduh"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Unduh Paket Skrip?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Pengunduhan berhasil diselesaikan!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Kesalahan saat membuka penampil log: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Kesalahan saat berjalan (Kode: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Jalankan Skrip yang Dipilih?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Eksekusi selesai!"
 
 msgid "Exit"
-msgstr ""
+msgstr "KELUAR"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Komandan File - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Garis In"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Berkas log tidak ditemukan!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Kesalahan jaringan: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Skrip terbuka oleh Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Silakan Unduh Skrip!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Menghapus"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Hapus semua skrip dari folder?"
 
 msgid "Save"
-msgstr ""
+msgstr "Menyimpan"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Pelaksana Skrip %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skrip tidak ditemukan!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skrip berhasil dihapus!"
 
 msgid "Select"
-msgstr ""
+msgstr "Memilih"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "memutar/menampilkan File"

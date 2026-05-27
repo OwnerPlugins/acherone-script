@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "கிடைக்கும் ஸ்கிரிப்டுகள்"
 
 msgid "Close"
-msgstr ""
+msgstr "மூடு"
 
 msgid "Del Line"
-msgstr ""
+msgstr "டெல் லைன்"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "விளக்கம்:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "பதிவிறக்கவும்"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ஸ்கிரிப்ட் பேக்கைப் பதிவிறக்கவா?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "பதிவிறக்கம் வெற்றிகரமாக முடிந்தது!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "பதிவு பார்வையாளரைத் திறப்பதில் பிழை: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "இயங்கும் போது பிழை (குறியீடு: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட ஸ்கிரிப்டை இயக்கவா?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "செயல்படுத்தல் முடிந்தது!"
 
 msgid "Exit"
-msgstr ""
+msgstr "வெளியேறு"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "கோப்பு தளபதி - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "இன்ஸ் லைன்"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "பதிவு கோப்பு கிடைக்கவில்லை!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "நெட்வொர்க் பிழை: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "லுலுல்லாவின் ஓபன்ஸ்கிரிப்ட்"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "ஸ்கிரிப்டைப் பதிவிறக்கவும்!"
 
 msgid "Remove"
-msgstr ""
+msgstr "அகற்று"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "கோப்புறையிலிருந்து எல்லா ஸ்கிரிப்ட்களையும் அகற்றவா?"
 
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "ஸ்கிரிப்ட் எக்ஸிகியூட்டர் %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "ஸ்கிரிப்ட் கிடைக்கவில்லை!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ஸ்கிரிப்டுகள் வெற்றிகரமாக அகற்றப்பட்டன!"
 
 msgid "Select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "கோப்புகளை இயக்கவும்/காண்பிக்கவும்"

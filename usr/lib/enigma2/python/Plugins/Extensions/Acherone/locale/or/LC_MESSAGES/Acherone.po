@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "% s"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ଉପଲବ୍ଧ ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକ |"
 
 msgid "Close"
-msgstr ""
+msgstr "ବନ୍ଦ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ଡେଲ୍ ଲାଇନ୍ |"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "ବର୍ଣ୍ଣନା: \ n"
 
 msgid "Download"
-msgstr ""
+msgstr "ଡାଉନଲୋଡ୍ କରନ୍ତୁ |"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ସ୍କ୍ରିପ୍ଟ ପ୍ୟାକ୍ ଡାଉନଲୋଡ୍ କରନ୍ତୁ?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ଡାଉନଲୋଡ୍ ସଫଳତାର ସହିତ ସମାପ୍ତ ହୋଇଛି!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "ଲଗ ଦର୍ଶକ ଖୋଲିବାରେ ତ୍ରୁଟି:% s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "ଚାଲିବା ସମୟରେ ତ୍ରୁଟି (କୋଡ୍:% d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ସ୍କ୍ରିପ୍ଟ ସିଲେକ୍ଟ କରନ୍ତୁ?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "ନିଷ୍ପାଦନ ସମାପ୍ତ!"
 
 msgid "Exit"
-msgstr ""
+msgstr "ପ୍ରସ୍ଥାନ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ଫାଇଲ୍ କମାଣ୍ଡର - ଆଡନ୍ |"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ଇନ୍ସ ଲାଇନ୍ |"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "ଲଗ୍ ଫାଇଲ୍ ମିଳିଲା ନାହିଁ!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "ନେଟୱର୍କ ତ୍ରୁଟି:% s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "ଲୁଲୁଲାଙ୍କ ଦ୍ୱାରା ଖୋଲା ସ୍କ୍ରିପ୍ଟ |"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "ଦୟାକରି ସ୍କ୍ରିପ୍ଟ ଡାଉନଲୋଡ୍ କରନ୍ତୁ!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ଅପସାରଣ କରନ୍ତୁ |"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ଫୋଲ୍ଡରରୁ ସମସ୍ତ ସ୍କ୍ରିପ୍ଟ ଅପସାରଣ କରିବେ କି?"
 
 msgid "Save"
-msgstr ""
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "ସ୍କ୍ରିପ୍ଟ ଏକଜେକ୍ୟୁଟର% s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "ସ୍କ୍ରିପ୍ଟ ମିଳିଲା ନାହିଁ!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ସ୍କ୍ରିପ୍ଟଗୁଡିକ ସଫଳତାର ସହିତ ଅପସାରିତ ହେଲା!"
 
 msgid "Select"
-msgstr ""
+msgstr "ଚୟନ କରନ୍ତୁ |"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ଫାଇଲଗୁଡିକ ଚଲାନ୍ତୁ / ଦେଖାନ୍ତୁ |"

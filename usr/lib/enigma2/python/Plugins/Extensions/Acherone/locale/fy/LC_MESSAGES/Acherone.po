@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Beskikbere skripts"
 
 msgid "Close"
-msgstr ""
+msgstr "Slute"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Beskriuwing:\n"
 
 msgid "Download"
 msgstr ""
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Skriptpakket downloade?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Download mei súkses foltôge!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Flater by it iepenjen fan log werjouwer: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Flater by it útfieren (Koade: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Skript útfiere selektearre?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Utfiering klear!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Útgong"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Yns Line"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logtriem net fûn!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netwurkflater: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript troch Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Download asjebleaft skript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Fuortsmite"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Alle skripts út map fuortsmite?"
 
 msgid "Save"
-msgstr ""
+msgstr "Rêde"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skriptútfierder %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript net fûn!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripten mei sukses fuortsmiten!"
 
 msgid "Select"
-msgstr ""
+msgstr "Selektearje"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "boartsje / show Files"

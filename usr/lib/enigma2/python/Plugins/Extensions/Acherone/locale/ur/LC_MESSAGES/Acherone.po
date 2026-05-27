@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "دستیاب اسکرپٹس"
 
 msgid "Close"
-msgstr ""
+msgstr "بند"
 
 msgid "Del Line"
-msgstr ""
+msgstr "ڈیل لائن"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "تفصیل:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ڈاؤن لوڈ کریں۔"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "اسکرپٹ پیک ڈاؤن لوڈ کریں؟"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ڈاؤن لوڈ کامیابی سے مکمل ہو گیا!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "لاگ ویور کھولنے میں خرابی: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "چلانے کے دوران خرابی (کوڈ: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "اسکرپٹ پر عمل درآمد منتخب کیا گیا؟"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "پھانسی مکمل!"
 
 msgid "Exit"
-msgstr ""
+msgstr "باہر نکلیں۔"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "فائل کمانڈر - ایڈون"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "انس لائن"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "لاگ فائل نہیں ملی!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "نیٹ ورک کی خرابی: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla کی طرف سے اوپن اسکرپٹ"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "براہ کرم اسکرپٹ ڈاؤن لوڈ کریں!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ہٹا دیں۔"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "فولڈر سے تمام اسکرپٹس کو ہٹائیں؟"
 
 msgid "Save"
-msgstr ""
+msgstr "محفوظ کریں۔"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "اسکرپٹ ایگزیکیوٹر %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "اسکرپٹ نہیں ملا!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "اسکرپٹس کو کامیابی کے ساتھ ہٹا دیا گیا!"
 
 msgid "Select"
-msgstr ""
+msgstr "منتخب کریں۔"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "فائلیں چلائیں / دکھائیں۔"

@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Skrîptên Berdest"
 
 msgid "Close"
-msgstr ""
+msgstr "Nêzîkî"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Danasîn:\n"
 
 msgid "Download"
 msgstr ""
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Pakêta Skrîptê dakêşin?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Daxistin bi serkeftî qediya!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Çewtiya vekirina nîşanderê têketinê: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Di dema xebitandinê de çewtî (Kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Skrîpta Bicihkirina Hilbijartî?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Darvekirin qediya!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Derî"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Fermandarê Pelê - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Pelê têketinê nehat dîtin!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Çewtiya torê: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript ji hêla Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Ji kerema xwe Skrîptê dakêşin!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Dûrxistin"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Hemî nivîsan ji peldankê rake?"
 
 msgid "Save"
-msgstr ""
+msgstr "Rizgarkirin"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Bicîkara Skrîptê %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skrîpt nehat dîtin!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skrîpt bi serkeftî hatin rakirin!"
 
 msgid "Select"
-msgstr ""
+msgstr "Neqandin"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "lîstin / Pelan nîşan bide"

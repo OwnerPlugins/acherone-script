@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "בנימצא סקריפּס"
 
 msgid "Close"
-msgstr ""
+msgstr "נאָענט"
 
 msgid "Del Line"
-msgstr ""
+msgstr "דעל ליניע"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "באַשרייַבונג:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "אראפקאפיע"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "אראפקאפיע סקריפּט פּאַק?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "אראפקאפיע געענדיקט הצלחה!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "טעות אין עפֿענען לאָג צוקוקער: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "טעות בשעת פליסנדיק (קאָד: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ויספירן סקריפּט אויסגעקליבן?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "דורכפירונג געענדיקט!"
 
 msgid "Exit"
-msgstr ""
+msgstr "אַרויסגאַנג"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "טעקע קאַמאַנדער - אַדדאָן"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "אינס ליניע"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "קלאָץ טעקע ניט געפֿונען!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "נעץ טעות: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "אָפּענסקריפּט דורך Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "ביטע אראפקאפיע סקריפּט!"
 
 msgid "Remove"
-msgstr ""
+msgstr "אַראָפּנעמען"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "אַראָפּנעמען אַלע סקריפּס פון טעקע?"
 
 msgid "Save"
-msgstr ""
+msgstr "היט"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "סקריפּט עקסעקוטער %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "שריפט ניט געפונען!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "סקריפּטס הצלחה אַוועקגענומען!"
 
 msgid "Select"
-msgstr ""
+msgstr "אויסקלייַבן"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "שפּיל / ווייַזן טעקעס"

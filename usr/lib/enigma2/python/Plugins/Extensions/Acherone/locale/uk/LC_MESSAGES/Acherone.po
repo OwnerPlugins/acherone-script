@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Доступні скрипти"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрити"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дель Лайн"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Опис:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Завантажити"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Завантажити пакет сценаріїв?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Завантаження успішно завершено!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Помилка відкриття засобу перегляду журналу: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Помилка під час виконання (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Вибрати сценарій виконання?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Виконання завершено!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Вихід"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "File Commander - аддон"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Файл журналу не знайдено!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Помилка мережі: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript від Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Будь ласка, завантажте скрипт!"
 
 msgid "Remove"
-msgstr ""
+msgstr "видалити"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Видалити всі сценарії з папки?"
 
 msgid "Save"
-msgstr ""
+msgstr "зберегти"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Виконавець сценарію %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Сценарій не знайдено!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Сценарії успішно видалено!"
 
 msgid "Select"
-msgstr ""
+msgstr "Виберіть"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "відтворити/показати файли"

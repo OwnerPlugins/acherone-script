@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "ស្គ្រីបដែលមាន"
 
 msgid "Close"
-msgstr ""
+msgstr "បិទ"
 
 msgid "Del Line"
-msgstr ""
+msgstr "បន្ទាត់ Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "ការពិពណ៌នា៖\n"
 
 msgid "Download"
-msgstr ""
+msgstr "ទាញយក"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "ទាញយកកញ្ចប់ស្គ្រីប?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "ការទាញយកបានបញ្ចប់ដោយជោគជ័យ!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "កំហុសក្នុងការបើកកម្មវិធីមើលកំណត់ហេតុ៖ %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "កំហុសពេលកំពុងដំណើរការ (កូដ៖ %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ប្រតិបត្តិស្គ្រីបដែលបានជ្រើសរើស?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "ការអនុវត្តបានបញ្ចប់!"
 
 msgid "Exit"
-msgstr ""
+msgstr "ចេញ"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "មេបញ្ជាការឯកសារ - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "បន្ទាត់ Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "រកមិនឃើញឯកសារកំណត់ហេតុទេ!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "កំហុសបណ្តាញ៖ %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript ដោយ Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "សូមទាញយកស្គ្រីប!"
 
 msgid "Remove"
-msgstr ""
+msgstr "ដកចេញ"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "លុបស្គ្រីបទាំងអស់ចេញពីថត?"
 
 msgid "Save"
-msgstr ""
+msgstr "រក្សាទុក"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "ប្រតិបត្តិករស្គ្រីប %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "រកមិនឃើញស្គ្រីបទេ!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "ស្គ្រីបត្រូវបានដកចេញដោយជោគជ័យ!"
 
 msgid "Select"
-msgstr ""
+msgstr "ជ្រើសរើស"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "លេង / បង្ហាញឯកសារ"

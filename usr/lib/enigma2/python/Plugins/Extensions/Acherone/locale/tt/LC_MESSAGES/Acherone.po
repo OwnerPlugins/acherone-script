@@ -17,82 +17,82 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "%s"
-msgstr ""
+msgstr "% s"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Мөмкин сценарийлар"
 
 msgid "Close"
-msgstr ""
+msgstr "Ябу"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Тасвирлау: \ n"
 
 msgid "Download"
-msgstr ""
+msgstr "Йөкләү"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Скрипт пакетын йөкләү?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Йөкләү уңышлы тәмамланды!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Бүрәнә тамашасын ачуда хата:% s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Эшләгәндә хата (Код:% d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Сайланган сценарийны башкару?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Башкару тәмамланды!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Чык"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Файл командиры - Аддон"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Бүрәнә файллары табылмады!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Челтәр хата:% s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Лулулла"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Зинһар, сценарийны йөкләгез!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Чыгар"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Барлык сценарийларны папкадан чыгарасызмы?"
 
 msgid "Save"
-msgstr ""
+msgstr "Саклагыз"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Сценарий башкаручы% s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Сценарий табылмады!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Сценарийлар уңышлы бетерелде!"
 
 msgid "Select"
-msgstr ""
+msgstr "Сайлагыз"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Файлларны уйнау / күрсәтү"

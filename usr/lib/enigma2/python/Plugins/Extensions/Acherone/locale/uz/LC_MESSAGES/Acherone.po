@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Mavjud skriptlar"
 
 msgid "Close"
-msgstr ""
+msgstr "Yopish"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del liniyasi"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Tavsif:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Yuklab olish"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Skript to'plami yuklab olinsinmi?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Yuklab olish muvaffaqiyatli yakunlandi!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Jurnalni ko‘rish dasturini ochishda xatolik yuz berdi: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Ishlashda xatolik yuz berdi (kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Skript tanlanganmi?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Bajarish yakunlandi!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Chiqish"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Fayl qo'mondon - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Jurnal fayli topilmadi!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Tarmoq xatosi: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla tomonidan ochiq skript"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Iltimos, skriptni yuklab oling!"
 
 msgid "Remove"
-msgstr ""
+msgstr "O'chirish"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Barcha skriptlar jilddan olib tashlansinmi?"
 
 msgid "Save"
-msgstr ""
+msgstr "Saqlash"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skript ijrochisi %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript topilmadi!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptlar muvaffaqiyatli olib tashlandi!"
 
 msgid "Select"
-msgstr ""
+msgstr "Tanlang"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Fayllarni o'ynatish/ko'rsatish"

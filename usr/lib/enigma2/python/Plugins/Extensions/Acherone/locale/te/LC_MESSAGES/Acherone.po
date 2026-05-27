@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "అందుబాటులో ఉన్న స్క్రిప్ట్‌లు"
 
 msgid "Close"
-msgstr ""
+msgstr "మూసివేయి"
 
 msgid "Del Line"
-msgstr ""
+msgstr "డెల్ లైన్"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "వివరణ:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "డౌన్‌లోడ్ చేయండి"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "స్క్రిప్ట్ ప్యాక్‌ని డౌన్‌లోడ్ చేయాలా?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "డౌన్‌లోడ్ విజయవంతంగా పూర్తయింది!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "లాగ్ వ్యూయర్‌ని తెరవడంలో లోపం: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "అమలు చేస్తున్నప్పుడు లోపం (కోడ్: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "ఎంచుకున్న స్క్రిప్ట్‌ని అమలు చేయాలా?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "అమలు పూర్తయింది!"
 
 msgid "Exit"
-msgstr ""
+msgstr "నిష్క్రమించు"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "ఫైల్ కమాండర్ - యాడ్ఆన్"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "ఇన్స్ లైన్"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "లాగ్ ఫైల్ కనుగొనబడలేదు!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "నెట్‌వర్క్ లోపం: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "లులుల్లా ద్వారా ఓపెన్‌స్క్రిప్ట్"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "దయచేసి స్క్రిప్ట్‌ని డౌన్‌లోడ్ చేసుకోండి!"
 
 msgid "Remove"
-msgstr ""
+msgstr "తొలగించు"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "ఫోల్డర్ నుండి అన్ని స్క్రిప్ట్‌లను తీసివేయాలా?"
 
 msgid "Save"
-msgstr ""
+msgstr "సేవ్ చేయండి"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "స్క్రిప్ట్ ఎగ్జిక్యూటర్ %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "స్క్రిప్ట్ కనుగొనబడలేదు!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "స్క్రిప్ట్‌లు విజయవంతంగా తీసివేయబడ్డాయి!"
 
 msgid "Select"
-msgstr ""
+msgstr "ఎంచుకోండి"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ఫైల్‌లను ప్లే/షో"

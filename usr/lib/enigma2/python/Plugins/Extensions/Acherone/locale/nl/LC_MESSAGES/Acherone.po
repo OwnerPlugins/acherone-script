@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%S"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Beschikbare scripts"
 
 msgid "Close"
-msgstr ""
+msgstr "Dichtbij"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Lijn"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Beschrijving:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Downloaden"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Scriptpakket downloaden?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Downloaden succesvol voltooid!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Fout bij openen logviewer: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Fout tijdens het uitvoeren (code: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Script uitvoeren geselecteerd?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Uitvoering voltooid!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Uitgang"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Bestandscommandant - Add-on"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins-lijn"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logbestand niet gevonden!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Netwerkfout: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript door Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Download alstublieft het script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Verwijderen"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Alle scripts uit de map verwijderen?"
 
 msgid "Save"
-msgstr ""
+msgstr "Redden"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Scriptuitvoerder %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Script niet gevonden!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scripts succesvol verwijderd!"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecteer"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "bestanden afspelen/tonen"

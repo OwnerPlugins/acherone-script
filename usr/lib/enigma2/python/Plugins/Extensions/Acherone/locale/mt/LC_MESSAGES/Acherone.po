@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Skripts Disponibbli"
 
 msgid "Close"
-msgstr ""
+msgstr "Agħlaq"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Deskrizzjoni:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Niżżel"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Niżżel Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "It-tniżżil tlesta b'suċċess!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Żball fil-ftuħ ta' log viewer: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Żball waqt it-tħaddim (Kodiċi: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Eżegwixxi Script Magħżul?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Eżekuzzjoni lesta!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ħruġ"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linja Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Log file ma nstabx!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Żball tan-netwerk: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript minn Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Jekk jogħġbok Niżżel l-Iskript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Neħħi"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Neħħi l-iskripts kollha mill-folder?"
 
 msgid "Save"
-msgstr ""
+msgstr "Ħlief"
 
 msgid "Script Executor %s"
 msgstr ""
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript ma nstabx!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skripts imneħħija b'suċċess!"
 
 msgid "Select"
-msgstr ""
+msgstr "Agħżel"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "play/show Fajls"

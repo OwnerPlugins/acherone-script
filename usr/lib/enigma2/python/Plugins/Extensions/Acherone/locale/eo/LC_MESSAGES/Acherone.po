@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Disponeblaj Skriptoj"
 
 msgid "Close"
-msgstr ""
+msgstr "Fermu"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Linio"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Priskribo:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Elŝutu"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Ĉu elŝuti Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Elŝuto sukcese kompletigita!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Eraro dum malfermado de protokolo-rigardilo: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Eraro dum funkciado (Kodo: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Ĉu Efektivigi Skripton Elektita?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Ekzekuto finita!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Eliro"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Dosiera Komandanto - Aldono"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Ins Linio"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Logdosiero ne trovita!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Reta eraro: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Malfermoskribo de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Bonvolu Elŝuti Skripton!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Forigi"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Ĉu forigi ĉiujn skriptojn el dosierujo?"
 
 msgid "Save"
-msgstr ""
+msgstr "Konservu"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skripto-Ekzekutilo %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skripto ne trovita!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptoj sukcese forigitaj!"
 
 msgid "Select"
-msgstr ""
+msgstr "Elektu"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "ludi/montri dosierojn"

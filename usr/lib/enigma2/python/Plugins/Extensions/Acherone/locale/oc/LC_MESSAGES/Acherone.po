@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Escripts disponibles"
 
 msgid "Close"
-msgstr ""
+msgstr "Barrar"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del Linha"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descripcion:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Descargar"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Telecargar lo paquet d'escripts?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Telecargament acabat amb succès!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Error al moment de la dobertura del visualizaire de jornal : %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Error pendent l'execucion (Còde : %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Executar l'escript seleccionat?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Execucion completada!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Sortida"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Comandant de fichièrs - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linha Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Fichièr de jornal pas trobat !"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Error de ret : %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Telecargatz l'escript!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Levar"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Suprimir totes los scripts del dorsièr?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Executor d'escript %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Escript pas trobat !"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Los scripts suprimits amb succès!"
 
 msgid "Select"
-msgstr ""
+msgstr "Causir"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "jogar/afichar los fichièrs"

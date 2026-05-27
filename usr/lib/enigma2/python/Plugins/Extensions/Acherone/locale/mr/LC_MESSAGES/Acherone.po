@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "उपलब्ध स्क्रिप्ट्स"
 
 msgid "Close"
-msgstr ""
+msgstr "बंद करा"
 
 msgid "Del Line"
-msgstr ""
+msgstr "डेल लाइन"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "वर्णन:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "डाउनलोड करा"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "स्क्रिप्ट पॅक डाउनलोड करायचे?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "डाउनलोड यशस्वीरित्या पूर्ण झाले!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "लॉग दर्शक उघडताना त्रुटी: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "चालवताना त्रुटी (कोड: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "स्क्रिप्ट कार्यान्वित करायची?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "अंमलबजावणी पूर्ण झाली!"
 
 msgid "Exit"
-msgstr ""
+msgstr "बाहेर पडा"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "फाइल कमांडर - ॲडॉन"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "इन्स लाइन"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "लॉग फाइल सापडली नाही!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "नेटवर्क त्रुटी: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "लुलुल्ला द्वारे ओपनस्क्रिप्ट"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "कृपया स्क्रिप्ट डाउनलोड करा!"
 
 msgid "Remove"
-msgstr ""
+msgstr "काढा"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "फोल्डरमधून सर्व स्क्रिप्ट काढायच्या?"
 
 msgid "Save"
-msgstr ""
+msgstr "जतन करा"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "स्क्रिप्ट एक्झिक्युटर %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "स्क्रिप्ट सापडली नाही!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "स्क्रिप्ट यशस्वीरित्या काढल्या!"
 
 msgid "Select"
-msgstr ""
+msgstr "निवडा"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "फायली प्ले/शो"

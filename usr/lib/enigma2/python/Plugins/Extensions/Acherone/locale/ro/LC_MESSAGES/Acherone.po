@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Scripturi disponibile"
 
 msgid "Close"
-msgstr ""
+msgstr "Aproape"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Descriere:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Descărcați"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Descărcați pachetul de scripturi?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Descărcarea a fost finalizată cu succes!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Eroare la deschiderea vizualizatorului de jurnal: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Eroare la rulare (Cod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Executați scriptul selectat?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Execuție finalizată!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Ieșire"
 
 msgid "File Commander - Addon"
 msgstr ""
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Linia Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Fișierul jurnal nu a fost găsit!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Eroare de rețea: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript de Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Vă rugăm să descărcați Scriptul!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Eliminați toate scripturile din dosar?"
 
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 msgid "Script Executor %s"
 msgstr ""
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Scriptul nu a fost găsit!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Scripturile au fost eliminate cu succes!"
 
 msgid "Select"
-msgstr ""
+msgstr "Selecta"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "redați/afișați fișiere"

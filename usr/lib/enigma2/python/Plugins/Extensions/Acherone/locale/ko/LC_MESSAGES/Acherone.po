@@ -18,82 +18,82 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "%s"
-msgstr ""
+msgstr "%에스"
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "사용 가능한 스크립트"
 
 msgid "Close"
-msgstr ""
+msgstr "닫다"
 
 msgid "Del Line"
-msgstr ""
+msgstr "델라인"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "설명:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "스크립트 팩을 다운로드하시겠습니까?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "다운로드가 성공적으로 완료되었습니다!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "로그 뷰어를 여는 중 오류 발생: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "실행 중 오류가 발생했습니다(코드: %d)."
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "스크립트 실행을 선택하시겠습니까?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "실행이 완료되었습니다!"
 
 msgid "Exit"
-msgstr ""
+msgstr "출구"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "파일 커맨더 - 애드온"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "인라인"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "로그 파일을 찾을 수 없습니다!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "네트워크 오류: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla의 오픈스크립트"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "스크립트를 다운로드해주세요!"
 
 msgid "Remove"
-msgstr ""
+msgstr "제거하다"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "폴더에서 모든 스크립트를 제거하시겠습니까?"
 
 msgid "Save"
-msgstr ""
+msgstr "구하다"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "스크립트 실행자 %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "스크립트를 찾을 수 없습니다!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "스크립트가 성공적으로 제거되었습니다!"
 
 msgid "Select"
-msgstr ""
+msgstr "선택하다"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "파일 재생/표시"

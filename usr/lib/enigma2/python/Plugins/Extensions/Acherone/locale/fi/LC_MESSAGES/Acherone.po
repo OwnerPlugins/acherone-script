@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Saatavilla olevat skriptit"
 
 msgid "Close"
-msgstr ""
+msgstr "Lähellä"
 
 msgid "Del Line"
 msgstr ""
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Kuvaus:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Lataa"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Lataa Script Pack?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Lataus suoritettu onnistuneesti!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Virhe avattaessa lokin katseluohjelmaa: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Virhe ajon aikana (Koodi: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Suoritetaanko komentosarja valittu?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Toteutus suoritettu!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Poistu"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Tiedoston komento - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Lokitiedostoa ei löydy!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Verkkovirhe: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Avokirjoitus: Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Lataa Script!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Poistaa"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Poistetaanko kaikki komentosarjat kansiosta?"
 
 msgid "Save"
-msgstr ""
+msgstr "Tallentaa"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Komentosarjan suorittaja %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skriptiä ei löydy!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptit poistettu onnistuneesti!"
 
 msgid "Select"
-msgstr ""
+msgstr "Valitse"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "toista/näytä tiedostoja"

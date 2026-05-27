@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Skrip Tersedia"
 
 msgid "Close"
-msgstr ""
+msgstr "tutup"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Talian Del"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Penerangan:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Muat turun"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Muat turun Pek Skrip?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Muat turun berjaya diselesaikan!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Ralat membuka pemapar log: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Ralat semasa menjalankan (Kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Laksanakan Skrip Dipilih?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Pelaksanaan selesai!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Komander Fail - Addon"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Talian Ins"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Fail log tidak ditemui!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Ralat rangkaian: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Openscript oleh Lululla"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Sila Muat Turun Skrip!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Alih keluar"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Alih keluar semua skrip daripada folder?"
 
 msgid "Save"
-msgstr ""
+msgstr "Jimat"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Pelaksana Skrip %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skrip tidak ditemui!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skrip berjaya dialih keluar!"
 
 msgid "Select"
-msgstr ""
+msgstr "Pilih"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "main/tunjukkan Fail"

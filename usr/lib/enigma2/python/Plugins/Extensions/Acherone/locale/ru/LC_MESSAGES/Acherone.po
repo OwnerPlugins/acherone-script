@@ -21,79 +21,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Доступные сценарии"
 
 msgid "Close"
-msgstr ""
+msgstr "Закрывать"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Дель Лайн"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Описание:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Скачать"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Загрузить пакет сценариев?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Загрузка завершена успешно!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Ошибка при открытии средства просмотра журнала: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Ошибка во время работы (Код: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Выполнить сценарий выбран?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "Казнь завершена!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Выход"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Файловый менеджер - Аддон"
 
 msgid "Ins Line"
-msgstr ""
+msgstr "Инс Лайн"
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Файл журнала не найден!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Ошибка сети: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Открытый сценарий Лулуллы"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Пожалуйста, скачайте скрипт!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Удалять"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Удалить все скрипты из папки?"
 
 msgid "Save"
-msgstr ""
+msgstr "Сохранять"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Исполнитель скрипта %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Скрипт не найден!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Скрипты успешно удалены!"
 
 msgid "Select"
-msgstr ""
+msgstr "Выбирать"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "воспроизвести/показать файлы"

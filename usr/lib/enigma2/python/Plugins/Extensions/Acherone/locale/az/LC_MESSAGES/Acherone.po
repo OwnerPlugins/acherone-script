@@ -20,79 +20,79 @@ msgid "%s"
 msgstr ""
 
 msgid "Available Scripts"
-msgstr ""
+msgstr "Mövcud Skriptlər"
 
 msgid "Close"
-msgstr ""
+msgstr "Bağlayın"
 
 msgid "Del Line"
-msgstr ""
+msgstr "Del xətti"
 
 msgid "Description:\n"
-msgstr ""
+msgstr "Təsvir:\n"
 
 msgid "Download"
-msgstr ""
+msgstr "Yüklə"
 
 msgid "Download Script Pack?"
-msgstr ""
+msgstr "Skript Paketi Yükləsin?"
 
 msgid "Download completed successfully!"
-msgstr ""
+msgstr "Yükləmə uğurla tamamlandı!"
 
 msgid "Error opening log viewer: %s"
-msgstr ""
+msgstr "Jurnal görüntüləyicisini açma xətası: %s"
 
 msgid "Error while running (Code: %d)"
-msgstr ""
+msgstr "Çalışarkən xəta (Kod: %d)"
 
 msgid "Execute Script Selected?"
-msgstr ""
+msgstr "Seçilmiş skript icra edilsin?"
 
 msgid "Execution completed!"
-msgstr ""
+msgstr "İcra tamamlandı!"
 
 msgid "Exit"
-msgstr ""
+msgstr "Çıx"
 
 msgid "File Commander - Addon"
-msgstr ""
+msgstr "Fayl Komandiri - Addon"
 
 msgid "Ins Line"
 msgstr ""
 
 msgid "Log file not found!"
-msgstr ""
+msgstr "Giriş faylı tapılmadı!"
 
 msgid "Network error: %s"
-msgstr ""
+msgstr "Şəbəkə xətası: %s"
 
 msgid "Openscript by Lululla"
-msgstr ""
+msgstr "Lululla tərəfindən açıq skript"
 
 msgid "Please Download Script!"
-msgstr ""
+msgstr "Zəhmət olmasa Skripti Yükləyin!"
 
 msgid "Remove"
-msgstr ""
+msgstr "Sil"
 
 msgid "Remove all scripts from folder?"
-msgstr ""
+msgstr "Bütün skriptlər qovluqdan silinsin?"
 
 msgid "Save"
-msgstr ""
+msgstr "Saxla"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Skript İcraçısı %s"
 
 msgid "Script not found!"
-msgstr ""
+msgstr "Skript tapılmadı!"
 
 msgid "Scripts successfully removed!"
-msgstr ""
+msgstr "Skriptlər uğurla silindi!"
 
 msgid "Select"
-msgstr ""
+msgstr "seçin"
 
 msgid "play/show Files"
-msgstr ""
+msgstr "Faylları oynat/göstər"
