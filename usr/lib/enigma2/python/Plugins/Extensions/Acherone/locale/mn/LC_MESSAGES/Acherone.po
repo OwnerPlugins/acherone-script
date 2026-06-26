@@ -83,7 +83,7 @@ msgid "Save"
 msgstr "Хадгалах"
 
 msgid "Script Executor %s"
-msgstr ""
+msgstr "Скрипт гүйцэтгэгч %s"
 
 msgid "Script not found!"
 msgstr "Скрипт олдсонгүй!"
